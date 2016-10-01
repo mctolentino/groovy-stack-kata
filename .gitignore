@@ -1,0 +1,5 @@
+groovyStackKata.iml
+.idea
+out/
+build/
+.gradle/
